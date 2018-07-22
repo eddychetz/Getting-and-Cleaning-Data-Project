@@ -1,3 +1,4 @@
+setwd("C:/Users/Justice2/Desktop/Online Coursera/Coursera-R-Programming/UCI HAR Dataset")
 if (!require("data.table")) {
   install.packages("data.table")
 }
